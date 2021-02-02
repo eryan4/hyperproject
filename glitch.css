@@ -1,0 +1,43 @@
+div.gallery {
+  margin: 5px;
+  border: 1px solid #65a502;
+  float: left;
+  width: 200px;
+}
+
+div.gallery:hover {
+  border: 1px solid #386544;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-family: 'Sora', sans-serif;
+  color: #386544;
+}
+
+body {
+	background-color: #9ccf4d;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+h1{
+	color: #fb5cee;
+	text-align: left;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 3em;
+	padding-left: 30px;
+}
+
+p,a{
+	font-family: 'Sora', sans-serif;
+	color: #386544;
+	font-size: 14px;
+}

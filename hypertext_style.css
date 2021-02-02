@@ -1,0 +1,30 @@
+body, html {
+  height: 100%;
+
+}
+
+h1 {
+	background-image: url("images/beetle.png");
+	height: 20%;
+	color: #80c000;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 3em;
+}
+
+h3 {
+	font-family: 'Sora', sans-serif;
+	color: #386544;
+}
+
+
+p{
+	font-family: 'Sora', sans-serif;
+	color: #386544;
+	font-size: 14px;
+}
+
+body {
+	padding-left: 30px;
+	padding-right: 30px;
+}
